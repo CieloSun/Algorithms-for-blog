@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\projects\alg\alg\lcs.h(12): warning C4018: “<”: 有符号/无符号不匹配
+d:\projects\alg\alg\lcs.h(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\projects\alg\alg\lcs.h(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\projects\alg\alg\lcs.h(22): warning C4018: “<”: 有符号/无符号不匹配
+  ALG.vcxproj -> D:\Projects\ALG\Debug\ALG.exe
